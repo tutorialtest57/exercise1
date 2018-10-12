@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "24c8421c_b9906107",
+        "filename": "a",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1015246
+      },
+      "writtenOn": "2018-10-12T15:13:07Z",
+      "side": 1,
+      "message": "Looks nice to me",
+      "range": {
+        "startLine": 1,
+        "startChar": 10,
+        "endLine": 1,
+        "endChar": 16
+      },
+      "revId": "c37fad3da010a5a58e67ce70007c675901c23cf2",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
